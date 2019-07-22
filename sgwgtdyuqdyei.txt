@@ -1,0 +1,94 @@
+State true or false: Executing programs at the client side is slower than executing programs on the server
+a.	
+True
+b.	
+False----------------
+c.	
+May be
+d.	
+Can't say
+
+
+Which of these functions is not a part of the servlet lifecycle
+a.	
+Checking if an instance of servlet exists or not
+b.	
+Invoking the service method of the servlet
+c.	
+Shutting down the servlet
+d.	
+Pausing the servlet for a given period of time.-----------------
+
+
+
+Which of the following attributes are used in jsp:include  tag?
+a.	
+id, type
+b.	
+page, flush
+c.	
+page, class
+d.	
+type,page
+
+
+
+
+
+
+What is the key difference between using a <jsp:forward> and HttpServletResponse.sendRedirect()?
+
+forward executes on the server while sendRedirect() executes on the client.---------------
+forward executes on the client while sendRedirect() executes on the server.
+ The two methods perform identically.
+None of these
+
+
+Which of the following can not be used as the scope when using a JavaBean with JSP ?
+
+application
+response-----------------
+request
+ session
+
+
+
+
+
+Choose an incorrect statement from the following.
+A. JSP pages are easier to maintain than a servlet.
+B. The Web Container translate a Servlet into JSP page.--------------
+C. JSP is built on Java Technology so it is platform independent.
+D. A JSP page seperates presentation and business logic.
+
+
+
+ Which object stores references to the request and response objects?
+a) sessionContext
+b) pageContext---------
+c) HttpSession
+d) sessionAttribute
+
+
+
+which of the following is not the advantage of jsp
+Takes care of exception handling.
+Easy to learn and easy to apply.
+compiles and reloads manually.--------------
+Allows tag based programming. 
+
+
+
+
+What type of error object is thrown from the <c:catch> tag?
+ java.lang.Error
+ java.lang.Exception
+ java.lang.Throwable=======
+ Any of the above
+
+
+Can we call a function in my JSP via client-side JavaScript?
+we can call the function
+may be
+impossible------
+none of the above
